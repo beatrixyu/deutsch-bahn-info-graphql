@@ -1,7 +1,7 @@
 import React from "react"
 
 
-export function Train({ routeInfo }) {
+export function Train({ routePart }) {
 
     return (
         <div>
@@ -9,10 +9,10 @@ export function Train({ routeInfo }) {
             {/* <h1>{train.station.stations}</h1> */}
             {/* <h1>{train.name}</h1> */}
             <div>
-                <span>From: {routeInfo.from}</span>
-                <span>To: {routeInfo.to}</span>
+                <span>From: {routePart.from}</span>
+                <span>To: {routePart.to}</span>
                 <span>Delays:
-                  {routeInfo.parts
+                  {routePart.parts
                         .map(part =>
                             <div>
                                 {part.from.name}
