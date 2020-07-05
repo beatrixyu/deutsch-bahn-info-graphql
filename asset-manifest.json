@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/deutsch-bahn-info-graphql/static/css/main.5f361e03.chunk.css",
+    "main.js": "/deutsch-bahn-info-graphql/static/js/main.8272a472.chunk.js",
+    "main.js.map": "/deutsch-bahn-info-graphql/static/js/main.8272a472.chunk.js.map",
+    "runtime-main.js": "/deutsch-bahn-info-graphql/static/js/runtime-main.2f414c25.js",
+    "runtime-main.js.map": "/deutsch-bahn-info-graphql/static/js/runtime-main.2f414c25.js.map",
+    "static/js/2.1140cf2e.chunk.js": "/deutsch-bahn-info-graphql/static/js/2.1140cf2e.chunk.js",
+    "static/js/2.1140cf2e.chunk.js.map": "/deutsch-bahn-info-graphql/static/js/2.1140cf2e.chunk.js.map",
+    "index.html": "/deutsch-bahn-info-graphql/index.html",
+    "precache-manifest.14718ef9f03d3076d97676209683cee8.js": "/deutsch-bahn-info-graphql/precache-manifest.14718ef9f03d3076d97676209683cee8.js",
+    "service-worker.js": "/deutsch-bahn-info-graphql/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/deutsch-bahn-info-graphql/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.1140cf2e.chunk.js.LICENSE.txt": "/deutsch-bahn-info-graphql/static/js/2.1140cf2e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f414c25.js",
+    "static/js/2.1140cf2e.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.8272a472.chunk.js"
+  ]
+}
